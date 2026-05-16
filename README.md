@@ -1,6 +1,6 @@
 # 🔍 SubEnum
 
-A very simple script to enumerate subdomains of a domain, and write them into a file.
+A very simple script to probe subdomains of a domain, and write them into a file.
 
 ## Features
 
