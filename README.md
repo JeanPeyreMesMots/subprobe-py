@@ -1,4 +1,4 @@
-# 🔍 SubEnum
+# 🔍 subprobe-py
 
 A very simple script to probe subdomains of a domain, and write them into a file.
 
