@@ -1,6 +1,6 @@
 # 🔍 SubEnum
 
-A fast, concurrent subdomain enumerator written in Python. Probes subdomains from a wordlist using multithreaded HTTP(S) requests, with colored output and a clean summary.
+A very simple script to enumerate subdomains of a domain, and write them into a file.
 
 ## Features
 
